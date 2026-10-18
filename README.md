@@ -14,7 +14,7 @@
 <div align="left">
   <h2>♡ Sobre Mim</h2>
 </div>
-Oie! Eu sou a Gabriela 👋 Estudante de Tads na UNICAMP <3
+Oie! Eu sou a Gabriela 👋 
 <br/>
 <br/>
   
